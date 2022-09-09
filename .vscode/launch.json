@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "debug",
+      "type": "python",
+      "request": "launch",
+      "module": "streamlit", // appの代わりにコレ
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "C:/Users/QLQ/Desktop/face_emotion_recognition"
+      },
+      "args": [
+        // オプションはコレ
+        "run",
+        "${file}"
+        // "--server.port",
+        // "5678"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+需要安装的包
+pip install -U streamlit streamlit-webrtc opencv-python-headless
+
+现在有2种表情识别模型
+1.fer
+2.py-feat
+
+py-feat_sample.py
+    这个是表情识别demo 支持图片输入，然后结果图片输出
+    streamlit 支持camera输入测试 没有结合py-feat
+
+py-feat_streamlit.py
+    这个是结合了py-feat和streamlit在一起演示demo（是主要程序）
+py-feat_streamlit_0909.py
+    py-feat_streamlit的备份程序
+
+py-feat_streamlit.ipynb   是py-feat的ipynb版本没有特别多的新内容主要是普通演示
+
+streamlit_sample.py   这个是streamlit的复杂应用例子 里面有很多书写方法
+------------------------------------------
+
+fer目录下面是face emotion recognition程序（另外一种表情识别程序 精度和py-feat差不多）
+face_emotion_for_video.py   对应视频输入的表情识别
+face_emotion.py   对应图片输入的表情识别

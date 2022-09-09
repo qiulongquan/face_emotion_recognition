@@ -1,0 +1,7 @@
+__pycache__/
+output/
+*.jpg
+*.png
+*.cfg
+*.weights
+*.mp4
