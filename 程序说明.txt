@@ -1,4 +1,6 @@
 需要安装的包
+conda env create -f environment.yml
+
 pip install -U streamlit streamlit-webrtc opencv-python-headless
 
 现在有2种表情识别模型
