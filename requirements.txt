@@ -5,3 +5,4 @@ py-feat
 tensorflow-gpu==2.3.0
 fer==22.4.0
 pyopenSSL
+openssl==1.1.1q
