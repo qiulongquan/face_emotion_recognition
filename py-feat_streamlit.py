@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 
 import av  # strealing video library
@@ -12,17 +11,27 @@ from PIL import Image, ImageDraw, ImageFont
 from streamlit_webrtc import (RTCConfiguration, WebRtcMode,
                               WebRtcStreamerContext, webrtc_streamer)
 
+st.write("DB username:", st.secrets["db_username"])
+st.write("DB password:", st.secrets["db_password"])
+st.write("My cool secrets:", st.secrets["my_cool_secrets"]["things_i_like"])
+
+# And the root-level secrets are also accessible as environment variables:
+
+import os
+
+st.write(
+    "Has environment variables been set:",
+    os.environ["db_username"] == st.secrets["db_username"],
+)
+
 HERE = Path(__file__).parent
 
 #py-featでモデルを構築する。色々いじる余地があるので公式ドキュメント参照
 detector = Detector(
     face_model="retinaface",
     landmark_model="mobilenet",
-    # landmark_model = "mobilefacenet",
     au_model="svm",
-    emotion_model="fer",
-    # emotion_model="resmasknet",
-    # facepose_model="img2pose",
+    emotion_model="resmasknet"
 )
 MAX_IMAGE_WIDTH=1000
 IMG_BGR_PATH='stream_img_bgr.jpg'
