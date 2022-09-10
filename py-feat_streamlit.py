@@ -20,8 +20,8 @@ detector = Detector(
     landmark_model="mobilenet",
     # landmark_model = "mobilefacenet",
     au_model="svm",
-    # emotion_model="fer",
-    emotion_model="resmasknet",
+    emotion_model="fer",
+    # emotion_model="resmasknet",
     # facepose_model="img2pose",
 )
 MAX_IMAGE_WIDTH=1000
