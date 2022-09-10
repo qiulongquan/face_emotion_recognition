@@ -18,11 +18,8 @@ HERE = Path(__file__).parent
 detector = Detector(
     face_model="retinaface",
     landmark_model="mobilenet",
-    # landmark_model = "mobilefacenet",
     au_model="svm",
-    emotion_model="fer",
-    # emotion_model="resmasknet",
-    # facepose_model="img2pose",
+    emotion_model="resmasknet"
 )
 MAX_IMAGE_WIDTH=1000
 IMG_BGR_PATH='stream_img_bgr.jpg'
