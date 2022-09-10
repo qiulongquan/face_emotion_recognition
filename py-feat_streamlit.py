@@ -70,7 +70,7 @@ def draw_img(img_rgb,image_prediction):
   linewidth = 2
   textcolor = (255, 0, 0)
   textsize = 14
-  font = ImageFont.truetype("arial.ttf", size=textsize)
+  font = ImageFont.truetype("meiryo.ttc", size=textsize)
   labels_list=list(image_prediction.columns.values)
   for idx in range(len(image_prediction)):
     sub_dict={}
@@ -106,7 +106,7 @@ def draw_img_for_frame(frame_bgr,detected_faces,results):
   linewidth = 2
   textcolor = (255, 0, 0)
   textsize = 14
-  font = ImageFont.truetype("arial.ttf", size=textsize)
+  font = ImageFont.truetype("meiryo.ttc", size=textsize)
   # for idx,result in enumerate(results):
   #       result = dict(zip(emotion_list,result))
   #       result = sorted(result.items(), key=lambda x: x[1], reverse=True)
