@@ -5,3 +5,4 @@ output/
 *.cfg
 *.weights
 *.mp4
+secrets.toml
