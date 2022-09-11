@@ -24,3 +24,11 @@ streamlit_sample.py   这个是streamlit的复杂应用例子 里面有很多书
 fer目录下面是face emotion recognition程序（另外一种表情识别程序 精度和py-feat差不多）
 face_emotion_for_video.py   对应视频输入的表情识别
 face_emotion.py   对应图片输入的表情识别
+
+Using ngrok to create https tunnels  重要的解决https方法（测试可以使用https）
+https://www.daily.co/blog/setting-up-a-local-webrtc-development-environment/
+
+ngrok config add-authtoken 2EcxYHMSsjyhBhtYCQBh9Lr4RDQ_3RntB9NnEWDaRc8UHCsxu
+启动 streamlit run .\py-feat_streamlit.py
+启动 映射  ./ngrok http 8501
+生成的一个较长的https链接就是 localhost:8501的安全映射链接
