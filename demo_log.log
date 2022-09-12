@@ -1,0 +1,178 @@
+[2022-09-12 15:52:21,313]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:52:21,324]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:52:21,416]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:52:21,417]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (20736)
+[2022-09-12 15:52:23,747]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:52:23,749]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:52:23,752]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:52:23,753]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:52:23,753]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:52:23,754]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:52:23,754]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:52:23,755]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:52:23,755]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:52:23,756]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (10888)
+[2022-09-12 15:52:38,116]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:52:38,118]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:52:38,122]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:52:38,123]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:52:38,123]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:52:38,124]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:52:38,124]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:52:38,124]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:52:38,124]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:52:38,124]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (5632)
+[2022-09-12 15:52:39,453]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:52:39,455]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:52:39,460]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:52:39,460]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:52:39,461]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:52:39,461]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:52:39,461]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:52:39,461]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:52:39,462]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:52:39,462]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (20256)
+[2022-09-12 15:53:21,097]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:53:21,101]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:53:21,772]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:100: Track video received
+[2022-09-12 15:53:21,772]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:140: Set <aiortc.rtcrtpreceiver.RemoteStreamTrack object at 0x000002403456D840> as an input video track with video_processor <class 'streamlit_webrtc.process.AsyncVideoProcessTrack'>
+[2022-09-12 15:53:21,772]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:155: Add a track <streamlit_webrtc.process.AsyncVideoProcessTrack object at 0x000002403456E140> of kind video to <aiortc.rtcpeerconnection.RTCPeerConnection object at 0x000002400F762A10>
+[2022-09-12 15:53:26,997]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('172.20.64.1', 57917)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:26,998]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('172.20.64.1', 57917)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:26,998]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:26,998]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 52009) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:26,998]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('192.168.1.6', 57920)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:26,998]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:518: ICE connection state is checking
+[2022-09-12 15:53:27,105]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('172.20.64.1', 57917)) State.WAITING -> State.IN_PROGRESS
+[2022-09-12 15:53:27,112]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:53:27,115]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:53:27,118]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (19172)
+[2022-09-12 15:53:27,119]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ShutdownPolling_117b2448-16d0-4ddb-b141-2c589cfd9839 (18048)
+[2022-09-12 15:53:27,120]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:53:27,120]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:53:29,469]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('172.20.64.1', 57917)) State.WAITING -> State.IN_PROGRESS
+[2022-09-12 15:53:29,471]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('172.20.64.1', 57917)) State.IN_PROGRESS -> State.SUCCEEDED
+[2022-09-12 15:53:29,472]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('192.168.1.6', 57920)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:29,472]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('116.91.30.12', 57920)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:29,488]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.WAITING -> State.IN_PROGRESS
+[2022-09-12 15:53:29,490]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.IN_PROGRESS -> State.SUCCEEDED
+[2022-09-12 15:53:29,490]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 57919)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:29,519]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 52009) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.WAITING -> State.IN_PROGRESS
+[2022-09-12 15:53:29,521]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 52009) -> ('2001:f71:1480:1000:6829:8fab:3a47:379c', 57918)) State.IN_PROGRESS -> State.SUCCEEDED
+[2022-09-12 15:53:29,521]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 52009) -> ('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 57919)) State.FROZEN -> State.WAITING
+[2022-09-12 15:53:29,550]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 57919)) State.WAITING -> State.IN_PROGRESS
+[2022-09-12 15:53:29,553]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:6829:8fab:3a47:379c', 52008) -> ('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 57919)) State.IN_PROGRESS -> State.SUCCEEDED
+[2022-09-12 15:53:29,555]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 52009) -> ('2001:f71:1480:1000:d9e4:77c1:af29:4baa', 57919)) State.WAITING -> State.FAILED
+[2022-09-12 15:53:29,555]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('192.168.1.6', 57920)) State.WAITING -> State.FAILED
+[2022-09-12 15:53:29,555]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('192.168.1.6', 57920)) State.WAITING -> State.FAILED
+[2022-09-12 15:53:29,555]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('116.91.30.12', 57920)) State.FROZEN -> State.FAILED
+[2022-09-12 15:53:29,555]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('172.20.64.1', 52010) -> ('116.91.30.12', 57920)) State.WAITING -> State.FAILED
+[2022-09-12 15:53:29,556]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) ICE completed
+[2022-09-12 15:53:29,557]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:518: ICE connection state is completed
+[2022-09-12 15:53:29,587]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:53:29,589]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:53:29,593]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:53:29,594]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:53:29,594]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:53:29,594]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:53:29,595]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:53:29,595]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:53:29,595]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:53:29,596]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ShutdownPolling_117b2448-16d0-4ddb-b141-2c589cfd9839 (18048)
+[2022-09-12 15:53:29,596]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:53:29,596]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:53:29,598]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   video-decoder (10792)
+[2022-09-12 15:53:29,598]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   async_media_processor_0 (15756)
+[2022-09-12 15:53:29,598]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (456)
+[2022-09-12 15:53:29,864]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('192.168.1.6', 57920)) State.FAILED -> State.IN_PROGRESS
+[2022-09-12 15:53:29,865]    INFO from aioice.ice in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\aioice\ice.py:1062: Connection(0) Check CandidatePair(('192.168.1.6', 52007) -> ('192.168.1.6', 57920)) State.IN_PROGRESS -> State.SUCCEEDED
+[2022-09-12 15:53:57,674]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:53:57,676]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:53:57,823]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:53:57,826]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:53:57,832]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:53:57,832]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:53:57,833]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:53:57,833]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:53:57,833]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:53:57,834]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:53:57,834]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:53:57,835]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:181: Track video ended
+[2022-09-12 15:53:57,835]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:53:57,835]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:53:57,835]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   async_media_processor_0 (15756)
+[2022-09-12 15:53:57,835]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (18112)
+[2022-09-12 15:53:58,025]    INFO from streamlit_webrtc.webrtc in C:\ProgramData\Anaconda3\envs\streamlit\lib\site-packages\streamlit_webrtc\webrtc.py:518: ICE connection state is closed
+[2022-09-12 15:54:08,516]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:54:08,519]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_license.py:23: Starting license...
+[2022-09-12 15:54:08,521]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:54:08,521]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:54:08,521]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:54:08,522]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:54:08,522]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:54:08,522]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:54:08,523]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:54:08,523]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:54:08,523]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:54:08,524]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (16852)
+[2022-09-12 15:54:14,203]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:54:14,205]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_plate.py:23: Starting plate...
+[2022-09-12 15:54:14,207]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:54:14,207]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:54:14,207]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:54:14,207]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:54:14,208]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:54:14,208]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:54:14,208]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:54:14,209]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:54:14,209]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:54:14,209]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (19496)
+[2022-09-12 15:54:16,560]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:54:16,562]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:54:16,567]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:54:16,567]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:54:16,567]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:54:16,567]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:54:16,567]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:54:16,568]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:54:16,568]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:54:16,569]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:54:16,569]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:54:16,569]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (9896)
+[2022-09-12 15:54:16,860]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:54:16,865]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_fer.py:180: Starting Face emotion app...
+[2022-09-12 15:54:16,877]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:54:16,878]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:54:16,879]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:54:16,879]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (13468)
+[2022-09-12 15:54:20,707]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:25: main process start...
+[2022-09-12 15:54:20,709]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\.\demo_license.py:23: Starting license...
+[2022-09-12 15:54:20,710]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:42: === Alive threads ===
+[2022-09-12 15:54:20,710]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   MainThread (21228)
+[2022-09-12 15:54:20,710]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-1 (2628)
+[2022-09-12 15:54:20,711]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-2 (19536)
+[2022-09-12 15:54:20,711]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   Thread-3 (18656)
+[2022-09-12 15:54:20,711]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_0 (16668)
+[2022-09-12 15:54:20,712]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ThreadPoolExecutor-0_1 (4524)
+[2022-09-12 15:54:20,712]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_0 (18360)
+[2022-09-12 15:54:20,712]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   asyncio_1 (16652)
+[2022-09-12 15:54:20,712]    INFO from root in C:\Users\QLQ\Desktop\face_emotion_recognition\demo_main.py:45:   ScriptRunner.scriptThread (12740)
