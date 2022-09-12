@@ -1,4 +1,5 @@
 import json
+import os
 from pathlib import Path
 
 import av  # strealing video library
@@ -11,18 +12,16 @@ from PIL import Image, ImageDraw, ImageFont
 from streamlit_webrtc import (RTCConfiguration, WebRtcMode,
                               WebRtcStreamerContext, webrtc_streamer)
 
-st.write("DB username:", st.secrets["db_username"])
-st.write("DB password:", st.secrets["db_password"])
-st.write("My cool secrets:", st.secrets["my_cool_secrets"]["things_i_like"])
+# st.write("DB username:", st.secrets["db_username"])
+# st.write("DB password:", st.secrets["db_password"])
+# st.write("My cool secrets:", st.secrets["my_cool_secrets"]["things_i_like"])
 
 # And the root-level secrets are also accessible as environment variables:
 
-import os
-
-st.write(
-    "Has environment variables been set:",
-    os.environ["db_username"] == st.secrets["db_username"],
-)
+# st.write(
+#     "Has environment variables been set:",
+#     os.environ["db_username"] == st.secrets["db_username"],
+# )
 
 HERE = Path(__file__).parent
 
@@ -31,7 +30,8 @@ detector = Detector(
     face_model="retinaface",
     landmark_model="mobilenet",
     au_model="svm",
-    emotion_model="fer"
+    emotion_model="fer",
+    # emotion_model="resmasknet"
 )
 MAX_IMAGE_WIDTH=1000
 IMG_BGR_PATH='stream_img_bgr.jpg'
@@ -165,7 +165,7 @@ def cv2pil(image):
         new_image = cv2.cvtColor(new_image, cv2.COLOR_BGRA2RGBA)
     new_image = Image.fromarray(new_image)
     return new_image
-  
+
 @st.experimental_memo(show_spinner=False)
 def load_image(img_path):
     image = Image.open(img_path)
@@ -183,29 +183,27 @@ RTC_CONFIGURATION = RTCConfiguration(
 
 def main():
   st.title("Face emotion app")
-  #画像アップロードかカメラを選択するようにする。
-  # img_source = st.radio("画像のソースを選択してください。",
-  #                               ("画像をアップロード", "カメラで撮影"))
-  # if img_source == "カメラで撮影":
-  #   img_file_buffer = st.camera_input("カメラで撮影")
-  # elif img_source == "画像をアップロード":
-  #   img_file_buffer = st.file_uploader("ファイルを選択")
-  # else:
-  #     pass
-  # #どちらを選択しても後続の処理は同じ
-  # if img_file_buffer is not None:
-  #   img_rgb=load_image(img_file_buffer)
-  #   st.image(img_rgb, use_column_width=True)
-  #   cv2.imwrite(IMG_BGR_PATH,pil2cv(img_rgb))
-  #   #py-featの表情解析結果をデータフレーム形式でimage_predictionとする
-  #   image_prediction = detector.detect_image(IMG_BGR_PATH)
-  #   #感情に関するカラムだけを残す
-  #   image_prediction = image_prediction[["frame","FaceRectX","FaceRectY","FaceRectWidth","FaceRectHeight","FaceScore","anger", "disgust", "fear", "happiness", "sadness", "surprise", "neutral"]]
-  #   # image_prediction = image_prediction[["anger", "disgust", "fear", "happiness", "sadness", "surprise", "neutral"]]
-  #   st.write(image_prediction)
-  #   img_rgb_draw=draw_img(img_rgb,image_prediction)
-  #   st.image(img_rgb_draw,caption=f"Processed image", use_column_width=True)
-  #   st.markdown("#### 表情認識完了")
+  img_source = st.radio("画像のソースを選択してください。",("画像をアップロード", "カメラで撮影"))
+  if img_source == "カメラで撮影":
+    img_file_buffer = st.camera_input("カメラで撮影")
+  elif img_source == "画像をアップロード":
+    img_file_buffer = st.file_uploader("ファイルを選択")
+  else:
+      pass
+  #どちらを選択しても後続の処理は同じ
+  if img_file_buffer is not None:
+    img_rgb=load_image(img_file_buffer)
+    st.image(img_rgb, use_column_width=True)
+    cv2.imwrite(IMG_BGR_PATH,pil2cv(img_rgb))
+    #py-featの表情解析結果をデータフレーム形式でimage_predictionとする
+    image_prediction = detector.detect_image(IMG_BGR_PATH)
+    #感情に関するカラムだけを残す
+    image_prediction = image_prediction[["frame","FaceRectX","FaceRectY","FaceRectWidth","FaceRectHeight","FaceScore","anger", "disgust", "fear", "happiness", "sadness", "surprise", "neutral"]]
+    # image_prediction = image_prediction[["anger", "disgust", "fear", "happiness", "sadness", "surprise", "neutral"]]
+    st.write(image_prediction)
+    img_rgb_draw=draw_img(img_rgb,image_prediction)
+    st.image(img_rgb_draw,caption=f"Processed image", use_column_width=True)
+    st.markdown("#### 表情認識完了")
   # 摄像头视频流input处理
   st.title("WebRTC demo")
   webrtc_streamer(key='face emotion recognition',mode=WebRtcMode.SENDRECV,rtc_configuration=RTC_CONFIGURATION,video_frame_callback=callback,media_stream_constraints={"video": True, "audio": False},async_processing=True)

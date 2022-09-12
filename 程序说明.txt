@@ -32,3 +32,7 @@ ngrok config add-authtoken 2EcxYHMSsjyhBhtYCQBh9Lr4RDQ_3RntB9NnEWDaRc8UHCsxu
 启动 streamlit run .\py-feat_streamlit.py
 启动 映射  ./ngrok http 8501
 生成的一个较长的https链接就是 localhost:8501的安全映射链接
+
+安装pytorch gpu环境
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+使用torch_env_test.py进行环境测试
